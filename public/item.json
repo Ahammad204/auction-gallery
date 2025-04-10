@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic Leica M3 camera in excellent condition.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co/qMqhbgHs/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Vintage electric guitar with a mahogany body and classic sound.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/VYpzq42M/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "First-generation Macintosh, fully functional and collectible.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 15,
+    "image": "https://i.ibb.co.com/H1xRjFt/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Iconic diving watch with stainless steel finish.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 10,
+    "image": "https://i.ibb.co.com/FLgVD2MK/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first edition of the classic American novel.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/XZgK4VGR/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Authentic Eames chair with matching ottoman, black leather.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/pBs8zHMJ/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "Certified screen print artwork by Banksy.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/WWkfRhxj/Bid7-min.png"
+  }
+]
