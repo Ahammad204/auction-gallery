@@ -46,7 +46,7 @@ Welcome to **AuctionGallery**, a modern React-based auction web application wher
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/auction-gallery.git
+git clone https://github.com/Ahammad204/auction-gallery
 
 # Navigate to project folder
 cd auction-gallery
@@ -83,7 +83,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-- Developed by [Kazi Ahammad Ullah](https://github.com/your-username) 💻
+- Developed by [Kazi Ahammad Ullah](https://github.com/Ahammad204) 💻
 
 ---
 
