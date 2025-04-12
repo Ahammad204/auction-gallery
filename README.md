@@ -6,7 +6,7 @@ Welcome to **AuctionGallery**, a modern React-based auction web application wher
 ## 🚀 Live Preview
 
 🌐 **Live Link:** [Click here to view the site](https://auctiongallary4.netlify.app/)  
-*(Replace this link with your deployed website URL)*
+
 
 ---
 
